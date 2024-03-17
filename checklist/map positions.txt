@@ -1,0 +1,2 @@
+Line 1 is the daily instructions. Note: Items in a Group must be grouped together or you will get shifting notes. 
+1 Grouping | 2 Task | 3 Expectation | 4 Training Link | 5 carry over days ~ starts the data data... 1 status | 2 Agent | 3 Notes

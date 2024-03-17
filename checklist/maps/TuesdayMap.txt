@@ -1,0 +1,45 @@
+﻿Tuesday Checklist V3 - If possible, 1 Person does the upload, another opens the phone queue, another does lost cards. The upload is most important. Lost cards ranks 2nd.
+Uploads|CIMS Upload (R55APTRN2) Dated CURRENT Friday<br>**UNLESS PERIOD END -NO CIMS UPLOAD TUESDAYS OF PERIOD END**|Have a second set of eyes check the GL date before upload, confirm post|https://web.microsoftstream.com/video/108b1694-9396-41e1-8fea-5ccbe820418c
+Uploads|Orbit Upload|
+Uploads|CRIS Review Fix JDE|Resolve any penny rounding issues.|
+Uploads|Orbit Receipts Upload (DO NOT ADD GL DATES)|confirm post|
+Uploads|Orbit Kickouts cleared|Requires 2nd set of eyes for verification|
+Uploads|Orbit Table Review|Use Orbit Excel to review that all production data has been uploaded to JDE.|
+Uploads|Exception Report Analysis|Analyze the data on the Exception report and fill out the tracker located at Accounting Drive:\Orbit\Orbit Exception Report analysis dated for current date. If Tuesday month end use previous Friday date, if not use current date|https://web.microsoftstream.com/video/e827bfc5-b39e-44d7-8358-41d64d24f0a2
+Uploads|Batch post to JDE|This task is done Eric or Nicki|https://web.microsoftstream.com/video/ace495a0-3c49-4f21-8e27-278fe7ca8f9c?channelId=e4fa49e7-ab8d-429f-9a5e-5d97d047fd42
+Uploads|CIMS Adjustment Report|Not needed Period End Tuesday assuming it was not a long weekend and we uploaded stuff on Monday as in yesterday.
+Uploads|Orbit Upload Completion Email|Send e-mail out to all of accounting to signal Orbit uploads are not. Mention if any units are requiring additional attention. **PE only let Brenda know your are working on AP, only send the final email when all is completed**|
+Uploads|Period End Statistics (W1 only)|Accounting drive \Corporate Finance Team\Period End Check Off Lists 2022F|
+Uploads|Period End Accrual File (W1 only)|Did the accrual fine get uploaded yesterday? R55GLTRN, GL to last Friday.|
+Email|Email Orbit Charges|Email DMs, RDs, Sector Controllers and SDAs|
+Email|Check Orbit Ice Scheduler Email|You should find an email in the app support box that Ice was succesful,if not we need IT help right now to get that job run.|https://web.microsoftstream.com/video/cb1d8cee-41ea-4042-a6a7-158e00adeb9a
+Email|Checkpoint  Morning|Count emails in App Support & WORrior inboxes, combine total and mark in the tracker.|https://web.microsoftstream.com/video/df356ace-1b83-4e3b-a0c9-bb2ae9e720eb
+Email|Checkpoint Noon|Count emails in App Support & WORrior inboxes, combine total and mark in the tracker.|https://web.microsoftstream.com/video/df356ace-1b83-4e3b-a0c9-bb2ae9e720eb
+Email|Checkpoint  Afternoon|Count emails in App Support & WORrior inboxes, combine total and mark in the tracker.|https://web.microsoftstream.com/video/df356ace-1b83-4e3b-a0c9-bb2ae9e720eb
+iTrade & Tools|Check for SFTP connectivity|Use the iTrade account and open a connection with Filezilla to the file drop location. If you can't let IT know right away. shenning@compass-na.com; Allan.Dittmer@compass-canada.com; Jason.Lucier@compass-canada.com This should be done first thing in the morning so we can ensure we get our files.|
+iTrade & Tools|Check the Archive Ref. Files|Review the CIMS repository and confirm we received all the required flat files, 3 and sometimes a Mog, note if you see the Mog.|https://web.microsoftstream.com/video/cd9ba5a0-6a06-4a84-b408-3f70e798c8ef
+iTrade & Tools|Check CIMS Event Log|Review from yesterday to current + look for Error 4010 & 4016|https://web.microsoftstream.com/video/051f3b07-0606-4a6f-8971-b9884bf8877f
+iTrade & Tools|Check overnight CIMS file load | Check the invoice files that came between 11 AM yesterday and 4 AM today with the Filebot & Audit tool, action any issues detected.|https://web.microsoftstream.com/video/072bb6b4-eb31-43cc-ae6c-ff3cf4ec4ac1
+iTrade & Tools|Missing CIMS Invoice Email|Check the Missing Invoice Tracker and follow up with vendors regarding missing invoices|https://web.microsoftstream.com/video/c50dbb2f-c777-4b8c-9245-003b4333932b
+iTrade & Tools|Check the 11 AM CIMS file load|Check the invoice files that came after 4AM to now with the Filebot & Audit tool|https://web.microsoftstream.com/video/072bb6b4-eb31-43cc-ae6c-ff3cf4ec4ac1
+iTrade & Tools|DCNT (customer number tool)|Load all the iTrade files that came from over night to today and action any<br>customer numbers the tool reports. This is best done after the 11AM Filebot
+iTrade & Tools|Invoices in CR position|Run tool and and look for product invoice in a credit postion, action if you find. - CIMS
+CIMS|Invoice Recalc Check|Use the CIMS price variance report and look for anything from yesterday that has a negative price recalculation. That would mean we are paying more for something and something is probably wrong with the invoice.|
+CIMS|Resolve Rejected Screen|Clean that screen up and track anything from the IVR users in the tracker|
+Other Tasks|CIMS Access and JDE Vendor Changes|Use the tools to review the unit user & supplier reference files in the CIMS repository for changes that might impact us. Track in CIMS JDE Vendor & CIMS user drops.xlsx. |https://web.microsoftstream.com/video/88dd16df-32e5-40f8-a944-350ebe6a5338
+Other Tasks|Unit Info Sheets|Review and action any setups or changes reported in the sheets, schedule a reminder to action if the change is happening in the future.|https://web.microsoftstream.com/video/5b0356ea-3e18-4656-acc8-7f270457f72e
+Other Tasks|Update Random Unit Sheets|Put a new copy of the Accouting Contact List, Deliquent Report & OLR Report & a GL dump in CSV format from unit 00001 in the folder so our Unit Look Up tool is a fresh as possible and email a copy of the OLR reprot to Pam||
+WORrior|Check the schedule|WORrior will have opened a new week, make sure we have the right lockout schedule in place.
+Gift Cards|First Thing, Lost Cards|Action lost cards by filling out the tracker, contacting UMs, transferring balances, and contacting customers
+Zipthru|BAMS HL0101 Report|Run for entire period up to current date, tuesday mornings. MID 34002290013.|https://web.microsoftstream.com/video/4f31dee8-1779-46bc-9454-9fef4c10c58d
+Zipthru|Reconciliation Report Creation – Tuesday Mornings after ORBIT upload|Load Givex Transactions Report and 255095 totals from T/B by Object Account for current period into Reconciliation file.
+Zipthru|Reconciliation Corrections – Tuesday/Wednesday|Identify and analyze variances between Givex and JDE using the reconciliation file created and the Zipthru report from Debit Terminal Support.
+Zipthru|Correction Journal Entry – Thursday, before 2nd Op|Make any corrections necessary in JDE. Please record the GL date and batch # in the comments. GL date is current friday EXCEPT when keying period end corrections, when it is the final friday of the period.
+Digital Hospitality|Daily Digital Hospitality Uploads |Run Journal Entry Batch Processor and investigate any kickouts. User IDs: CDL_MOBILE, MODURN_MBL, NUTRISLICE, APP8_MBL|https://web.microsoftstream.com/channel/fbcc7943-e018-47b1-967d-c0022d1f34ef
+Digital Hospitality|Check CDL Exact Discrepancy Report Daily|Run Exact Discrepancy Report on Dashboard, and contact CDL about any variances.
+Digital Hospitality|App8 Validation | Login to Bambora and App8 portal for 10751, validate that they match the JDE submission around 1pm daily. Make corrections to tips (214070) and sales if necessary, then run Digital Hospitality processor for APP8_MBL|
+Debit Terminal Support|Check Chargebacks|Need to check all the following websites and respond to any new cases - Clinetline, AMEX, Chase, TD, Moneris. There is instructions on how to respond to Clientline, AMEX, and Chase chargebacks in the debit terminal helper knowledge garden. I’ve never had a TD or Moneris chargeback so no instructions on that.
+Debit Terminal Support|Maintenance Form - Fiserv|Must be sent to andrew.leblanc@fiserv.com by 2PM. Instructions on maintenance form are located in the debit terminal helper knowledge garden.
+Debit Terminal Support|Maintenance Form - Moneris|CAF(s) and maintenance form need to be sent to justin.baird@moneris.com and chris.smith@moneris.com.
+Debit Terminal Support|Fiserv Refund Form|Once a day send andrew.leblanc@fiserv.com a list of all our instore refunds request (if there is any).
+Online Reporting|Action JDE Changes|Run the process outlined in the knowledge garden
